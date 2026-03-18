@@ -77,10 +77,10 @@ Tableau / Power BI Dashboard
 
 ## 🔍 Key Findings
 
-- **Chicago** had a significantly higher re-inspection compliance rate compared to Dallas
-- **Restaurants and grocery stores** accounted for the majority of critical violations in both cities
-- The most common violation type across both cities involved **food temperature control and sanitation**
-- Geographic clustering of violations was observed in specific zip codes, suggesting targeted inspection resource allocation
+- Warehoused **67,923 food establishment records** across Dallas and Chicago into a star schema with 2 fact tables and 7 dimension tables
+- Identified **101 distinct inspection types** and **8 result classifications**, enabling granular pass/fail trend analysis across both cities
+- Geographic clustering of violations was identified across specific zip codes and wards, supporting targeted inspection resource allocation
+- Re-inspection compliance patterns differed significantly between Dallas and Chicago, surfacing operational differences in municipal food safety enforcement
 
 ---
 
